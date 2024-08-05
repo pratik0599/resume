@@ -1,0 +1,44 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Vairagi Tattoo Art & Studio
+- project: Vairagi Tattoo Art & Studio
+  role: Developer
+  duration: 2021 &mdash; Present
+  url: "https://vairagiartandtattoostudio.000webhostapp.com/"
+  description: A single page informational/promotional website for the local tattoo shop in my area; this was the 1st project which is made up for 3rd parties.
+
+# CorPocket
+- project: CorPocket
+  role: Software Engineer Intern
+  duration: 2021
+  # url: "#"
+  description: An event and expense management system, which is responsible for managing the events and its expenses and maintaining reports and user management.
+
+# BloggersPoint
+- project: BloggersPoint
+  role: Developer
+  duration: 2021
+  url: "https://pratikrmehta.000webhostapp.com/bloggerspoint_gallery.html"
+  description: A blogging website, which manages the different categories of blogs and user management, etc.
+
+# Data Science
+- project: Data Science
+  role: Data Analyst Developer
+  duration: 2020
+  url: "https://www.kaggle.com/datasets/veeralakrishna/icc-test-cricket-runs"
+  description: A data analysis project, which is responsible for data visualization and analysis.
+
+# GamesLibrary
+- project: GamesLibrary
+  role: Developer
+  duration: 2019
+  # url: "#"
+  description: A free game downloading website, which can manage all the operations of uploading, downloading, user management, etc.
+
+# Virtual Office Management System
+- project: Virtual Office Management System
+  role: Developer
+  duration: 2019
+  url: "https://pratikrmehta.000webhostapp.com/virtualoffice_gallery.html"
+  description: A freelancing website, which can manage the operations of managing companies and their employees.
