@@ -5,7 +5,7 @@
 - project: Vairagi Tattoo Art & Studio
   role: Developer
   duration: 2021 &mdash; Present
-  url: "https://vairagiartandtattoostudio.000webhostapp.com/"
+  url: "https://pratik0599.github.io/projectsgallery/gallery_vairagitattoos.html"
   description: A single page informational/promotional website for the local tattoo shop in my area; this was the 1st project which is made up for 3rd parties.
 
 # CorPocket
@@ -19,7 +19,7 @@
 - project: BloggersPoint
   role: Developer
   duration: 2021
-  url: "https://pratikrmehta.000webhostapp.com/bloggerspoint_gallery.html"
+  url: "https://pratik0599.github.io/projectsgallery/gallery_bloggerspoint.html"
   description: A blogging website, which manages the different categories of blogs and user management, etc.
 
 # Data Science
@@ -40,5 +40,5 @@
 - project: Virtual Office Management System
   role: Developer
   duration: 2019
-  url: "https://pratikrmehta.000webhostapp.com/virtualoffice_gallery.html"
+  url: "https://pratik0599.github.io/projectsgallery/gallery_virtualoffice.html"
   description: A freelancing website, which can manage the operations of managing companies and their employees.
