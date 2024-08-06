@@ -12,7 +12,7 @@
 - project: CorPocket
   role: Software Engineer Intern
   duration: 2021
-  # url: "https://pratik0599.github.io/projectsgallery/gallery_corpocket.html"
+  url: "https://pratik0599.github.io/projectsgallery/gallery_corpocket.html"
   description: An event and expense management system, which is responsible for managing the events and its expenses and maintaining reports and user management.
 
 # BloggersPoint
@@ -33,7 +33,7 @@
 - project: GamesLibrary
   role: Developer
   duration: 2019
-  # url: "https://pratik0599.github.io/projectsgallery/gallery_gameslibrary.html"
+  url: "https://pratik0599.github.io/projectsgallery/gallery_gameslibrary.html"
   description: A free game downloading website, which can manage all the operations of uploading, downloading, user management, etc.
 
 # Virtual Office Management System
